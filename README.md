@@ -1,4 +1,6 @@
 ﻿# Notification-system-in-python
 
 <img width="1146" height="739" alt="image" src="https://github.com/user-attachments/assets/5728f876-f58d-4fcf-839c-5f262e424ea1" />
-<img width="455" height="474" alt="image" src="https://github.com/user-attachments/assets/117c9ed2-c915-401b-a44f-45f3973a3c36" />
+<img width="405" height="580" alt="image" src="https://github.com/user-attachments/assets/e3c4b7de-ac86-4df1-a07c-e4b02ed1afc7" />
+
+
