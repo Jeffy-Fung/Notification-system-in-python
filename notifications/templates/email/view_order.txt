@@ -1,0 +1,10 @@
+Dear {{name}},
+
+This email sent on {{date}} at {{time}}.
+
+- Timestamp: {{timestamp}}
+
+Please contact {{support_email}} for support.
+
+Thank you
+
